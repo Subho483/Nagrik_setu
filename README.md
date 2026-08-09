@@ -1,8 +1,10 @@
-# 🏛️ Jansetu (CivicTwin AI)
+# 🏛️ Nagrik Setu (CivicTwin AI)
 
 > **Benefits Found. Voices Heard. Problems Solved.**
+> 
+> 🌐 **Live Demo:** [https://nagrik-setu-ruddy.vercel.app](https://nagrik-setu-ruddy.vercel.app)
 
-**Jansetu** is an intelligent, high-fidelity civic-technology platform designed for **IEM HACKS 4.0 (Problem Statement 05)**. It serves as a digital bridge between citizens and administrative bodies, addressing two core civic challenges:
+**Nagrik Setu** is an intelligent, high-fidelity civic-technology platform designed for **IEM HACKS 4.0 (Problem Statement 05)**. It serves as a digital bridge between citizens and administrative bodies, addressing two core civic challenges:
 1. Discovering unclaimed government welfare benefits through an AI-powered eligibility gap detector.
 2. Transforming disjointed civic complaints into transparent, community-verified action.
 
@@ -44,7 +46,7 @@ Concurrently, reporting local municipal problems (such as broken streetlights, w
 ## 📁 4. Project Structure
 
 ```text
-JAN SETU/
+NAGRIK SETU/
 ├── src/
 │   ├── app/
 │   │   ├── about/            # About IEM Hacks 4.0 metadata
